@@ -1,4 +1,4 @@
-<h1 align="center">The Source Code of schola.co.uk</h1>
+<h1 align="center">The Source Code of coursecoach.co.uk</h1>
 
 <p align="center">This website was built with Hugo and the Hugoplate theme, customised to suit our own use.</p>
 

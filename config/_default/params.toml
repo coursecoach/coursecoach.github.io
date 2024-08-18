@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "schola"
+logo_text = "Course Coach"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -27,7 +27,7 @@ google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Built by Luke Stratta, based off of Hugoplate. This website is open-source. [<ins>What does that mean?</ins>](https://en.wikipedia.org/wiki/Open_source)"
+copyright = "Built by Course Coach, based off of Hugoplate. This website is open-source. [<ins>What does that mean?</ins>](https://en.wikipedia.org/wiki/Open_source)"
 calendly_link = "https://calendly.com/lukestratta-bcpe/discovery-call"
 
 # Preloader
@@ -65,7 +65,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 [metadata]
 keywords = ["Boilerplate", "Hugo"]
 description = "Online courses that grow your business"
-author = "schola"
+author = "Course Coach"
 image = "images/link-preview-image.png"
 
 

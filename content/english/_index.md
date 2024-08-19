@@ -44,7 +44,7 @@ features:
 
   - title: "How online courses can help you solve these problems"
     image: "/images/mountain-purple.png"
-    content: "Well, I am glad you asked. Let us explore what is possible. You could..."
+    content: "Let us explore what is possible. You could..."
     markType: "checkMark"
     bulletpoints:
       - "**Increase your prices for your 1:1 service** by providing more bespoke sessions by having courses that solve specific problems."

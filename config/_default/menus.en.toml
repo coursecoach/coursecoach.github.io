@@ -21,4 +21,4 @@ weight = 3
 [[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
-weight = 3
+weight = 1

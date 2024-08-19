@@ -143,7 +143,7 @@ If you remain unhappy with how we’ve used your data after raising a complaint 
 The ICO’s address:
 
 
-```
+```md
 Information Commissioner’s Office
 Wycliffe House
 Water Lane

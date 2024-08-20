@@ -10,7 +10,7 @@ banner:
   button:
     enable: true
     label: "That Sounds Great"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/contact"
 
 # Features
 features:
@@ -27,7 +27,7 @@ features:
     button:
       enable: true 
       label: "How Can I Solve These?"
-      link: "#"
+      link: "/contact"
 
   - title: "The most important thing for any business"
     image: "/images/blue-mountains.png"
@@ -40,7 +40,7 @@ features:
     button:
       enable: true
       label: "Help Me Solve These"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/contact"
 
   - title: "How online courses can help you solve these problems"
     image: "/images/mountain-purple.png"
@@ -55,5 +55,5 @@ features:
     button:
       enable: true
       label: "Get Me An Online Course!"
-      link: ""
+      link: "/contact"
 ---

@@ -5,8 +5,8 @@ description: "The process of creating a course is one where you will be kept up-
 
 button:
   enable: true
-  label: "Sign Me Up"
-  link: "https://github.com/zeon-studio/hugoplate"
+  label: "Sign me up"
+  link: "/contact"
 
 
 stages:

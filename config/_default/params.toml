@@ -64,7 +64,7 @@ content = "You must replace the **baseURL** in **hugo.toml** file when deploying
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Online", "Course", "Coach"]
-description = "Online courses that grow your business"
+description = "Course Coach helps you turn your knowledge into profitable online courses that can grow your business and change people's lives."
 author = "Course Coach"
 image = "images/course-coach-link-preview-image.png"
 

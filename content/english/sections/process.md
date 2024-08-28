@@ -14,7 +14,7 @@ stages:
     content: "You get on a discovery call with me and **we talk all about you, where you are at with your business, and if I can help you**. <br><br>If we’re a good fit, then we’ll crack on with getting your course started."
  
   - stage: "02 - Research"
-    content: "This is the most important step. <br><br> We make sure that the course you make has **a clear target market, solves a problem that target market has**, and is worth it to your clients spending money on it."
+    content: "This is the most important step. Get this right and it is smooth sailing from here. <br><br> We make sure that the course you make has **a clear target market, solves a problem that target market has**, and is worth it to your clients spending money on it."
 
   - stage: "03 - Outline"
     content: "We will get together on the phone (or in-person - I like coffee!) and **extract your knowledge around the topic for this course** so that we can turn that into a course structure. <br><br>You'll receive the course outline and ideas for supporting material to approve, and if needed, have edits made to."
